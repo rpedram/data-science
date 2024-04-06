@@ -1,4 +1,4 @@
-# Data-science
+# Simply Learn Data science course
 My Python learning code and submission during my IITK data Science course run my simplylearn franchise. 15 Nov-15 Feb 24.
 Capston Projects and module end assignments with my learning notes are in the google colabs.
 Interpretations in many of the old projects was wrong and approach could be improved.
