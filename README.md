@@ -1,3 +1,8 @@
-# data-science
-My Python learning code and submission during my IITK data Science course run my simplylearn franchise.
-All projects submitted and my learning notes are in the Jupyter notebooks
+# Data-science
+My Python learning code and submission during my IITK data Science course run my simplylearn franchise. 15 Nov-15 Feb 24.
+Capston Projects and module end assignments with my learning notes are in the google colabs.
+Interpretations in many of the old projects was wrong and approach could be improved.
+The Airlines Capston project with web scraping was the most most complex and colab ran out of RAM for df  level transformations.
+## Projects from Coursera
+Adding outher ML projects to cover learning gap.
+Objective: Structural Equation Modelling of survey data 
